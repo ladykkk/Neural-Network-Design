@@ -628,9 +628,7 @@ if __name__ == "__main__":
 
 
 """
-"/Users/jiafei/Desktop/courses/W23 CS F003B 02W Intermed Software Desgn Python/
-venv/bin/python" /Users/jiafei/Desktop/courses/W23 CS F003B 02W Intermed 
-Software Desgn Python/projects/assignment for json.py 
+
 Please Enter to test XOR without bias
 This is the sample run of XOR without bias.
 xor_data_encoded {"__NNData__": {"_labels": {"__NDarray__": [[0.0], [1.0], [1.0], [0.0]]}, "_features": {"__NDarray__": [[0.0, 0.0], [0.0, 1.0], [1.0, 0.0], [1.0, 1.0]]}, "_train_indices": [0, 1, 3, 2], "_test_indices": [], "_train_pool": {"__deque__": [0, 1, 3, 2]}, "_test_pool": {"__deque__": []}, "_train_factor": 1.0}}

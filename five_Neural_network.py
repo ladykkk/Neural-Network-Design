@@ -1211,9 +1211,6 @@ if __name__ == "__main__":
 
 
 """
-"/Users/jiafei/Desktop/courses/W23 CS F003B 02W Intermed Software Desgn Python/
-venv/bin/python" /Users/jiafei/Desktop/courses/W23 CS F003B 02W Intermed 
-Software Desgn Python/projects/assignment five.py 
 Please Enter to test iris
 This is the sample run of iris.
 Sample [6.4, 3.1, 5.5, 1.8]  expected [0.0, 0.0, 1.0] produced [0.86459403548295, 0.9049238067813041, 0.8158218656464129]
